@@ -5,11 +5,11 @@ Official Golang implementation of the Koisan protocol.
 
 ## Betherance Network detail:
 <br>
-Network name : betherance <br>
-New RPC URL : https://rpc.betherance.io <br>
-Chain ID : 1602 <br>
-Currency symbol : bet <br>
-Block explorer URL(Optional) :https://explorer.betherance.io<br>
+Network name : Betherance <br>
+New RPC URL : https://rpc.bethscan.io <br>
+Chain ID : 1605 <br>
+Currency symbol : beth <br>
+Block explorer URL(Optional) :https://bethscan.io<br>
 
 ## License
 
